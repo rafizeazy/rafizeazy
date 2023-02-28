@@ -5,13 +5,13 @@
 
 - 🔭 Student **@ Horizon Karawang**
 
-- 📫 How to reach me [rafiimanullah@gmail.com](rafiimanullah@gmail.com)
-
-- ⚡ Fun fact [Friendly](Friendly)
-
 - 🌱 I’m currently learning **Flutter, NextJS, Django**
 
 - 💬 Ask me about **React, Vue, JS**
+
+- 📫 How to reach me **rafiimanullah@gmail.com**
+
+- ⚡ Fun fact **who knows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
