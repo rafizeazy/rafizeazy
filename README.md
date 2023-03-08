@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafizeazy&label=Profile%20views&color=0e75b6&style=flat" alt="rafizeazy" /> </p>
 
-- 🔭 Student **@ Horizon Karawang**
+- 🔭 Someone **who likes code for nothing*
 
 - 🌱 I’m currently learning **Flutter, NextJS, Django**
 
