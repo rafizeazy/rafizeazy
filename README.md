@@ -5,9 +5,9 @@
 
 - 🔭 Someone who likes code for nothing
 
-- 🌱 I’m currently learning **Flutter, NextJS, Django**
+- 🌱 I’m currently learning **React, TypeScript, NextJS**
 
-- 💬 Ask me about **React, Vue, JS**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **rafiimanullah@gmail.com**
 
